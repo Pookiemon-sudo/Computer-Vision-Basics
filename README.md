@@ -1,4 +1,4 @@
-# comvis
+# Computer-Vision-Basics
 A collection of Computer Vision exercises using OpenCV.  
 
 ## Setting Up OpenCV  
