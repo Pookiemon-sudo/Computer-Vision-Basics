@@ -1,0 +1,14 @@
+{
+    "image": "animal.jpg",
+    "annotations": [
+        {
+            "box": [
+                103,
+                11,
+                286,
+                133
+            ],
+            "label": "cat"
+        }
+    ]
+}
